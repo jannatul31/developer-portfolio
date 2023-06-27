@@ -5,5 +5,28 @@ h1{
     font-size: 50px;
 }
 .dim{
-    color: orange;
-}    
+    color: rgb(110, 15, 110);
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 60px;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    color: white;
+    background-color: rgb(51, 17, 83);
+    padding: 10px 30px;
+    text-decoration: none;
+    border-radius: 6px;
+}
+.top-banner{
+    background-image: url(download.jpg);
+    
+    
+}
+       
