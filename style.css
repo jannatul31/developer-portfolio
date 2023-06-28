@@ -7,16 +7,12 @@ h1{
 .dim{
     color: rgb(110, 15, 110);
 }
-section{
+.top-banner{
     display: flex;
 }
-.half-width{
-    width: 50%;
-    padding: 60px;
-}
-.half-width img{
-    width: 100%;
-}
+
+
+
 .link-button{
     color: white;
     background-color: rgb(51, 17, 83);
@@ -24,9 +20,48 @@ section{
     text-decoration: none;
     border-radius: 6px;
 }
-.top-banner{
-    background-image: url(download.jpg);
-    
+.top-banner-2{
+   display: flex;
+   margin-top: 10%;
+}
+.half-width{
+    width: 50%;
+    padding: 15px;
+    border: 333px;
+    text-align: justify;
     
 }
+.half-width img{
+   margin-top: 20px;
+    width: 70%;
+    margin-left: 40px;
+
+}
+.half-width-2{
+    margin: 40opx; ;
+}
+.top-banner-3{
+    display: flex;
+}
+.experience-item{
+    width:50%;
+    margin-left: 4%;
+    margin-right: 4%;
+    text-align: justify;
+    padding: 20px;
+    box-shadow: 10px 10px 40px grey ;
+    border-left: 7px solid rgb(92, 48, 131) ;
+}
+#black{
+    border-left: 7px solid rgb(80, 4, 4);
+}
+footer{
+    text-align: center;
+    padding-top: 100px;
+}
+.full{
+    background-image: url(360_F_329615507_GFIScPx63hwgOIWT73UwPzBmTtW86w6C.jpg);
+    background-repeat:no-repeat ;
+}
+
        
